@@ -4,4 +4,5 @@ Creating a new branch is quick add merge.
 Git is a free software.
 git change email.
 add tag v1.0.
+.gitignore 
 
